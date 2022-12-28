@@ -8,7 +8,7 @@ I have been a Technology Enthusiast throughout my life. I like learning about te
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Developer Profile](http://dev.seeekersahil.com)
-* ✉️  You can contact me at [seekersahil@gmail.com](mailto:seekersahil@gmail.com)
+* ✉️  You can contact me at [contact@seekersahil.com](mailto:contact@seekersahil.com)
 
 ### Skills
 
