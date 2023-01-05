@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahil Gupta
 ===================================================================================================================================
 
-Full Stack Web Developer
+I am a `Full Stack Web Developer`
 ------------------------
 
 I have been a Technology Enthusiast throughout my life. I like learning about technologies and am passionate about improving existing technologies and building new products.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [dev.seekersahil.com](https://dev.seekersahil.com)
+* 🖥️  See my portfolio at [Developer Profile](http://dev.seeekersahil.com)
 * ✉️  You can contact me at [contact@seekersahil.com](mailto:contact@seekersahil.com)
 
 ### Skills
