@@ -7,7 +7,7 @@ I am a `Frontend Web Developer`
 I have been a Technology Enthusiast throughout my life. I like learning about technologies and am passionate about improving existing technologies and building new products.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Developer Profile](http://dev.seeekersahil.com)
+* 🖥️  See my portfolio at [Developer Profile](http://dev.seekersahil.com)
 * ✉️  You can contact me at [contact@seekersahil.com](mailto:contact@seekersahil.com)
 
 ### Skills
